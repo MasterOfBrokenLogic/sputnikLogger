@@ -1,9 +1,5 @@
 # Sputnik Key logger v2
 
-![Python](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)
-![GitHub repo size](https://img.shields.io/github/repo-size/<MasterOfBrokenLogic>/<sputnik>)
-
-
 ## Disclaimer
 
 This script is designed to gather browser-related data, including login credentials, cookies, web history, and download information. It also includes functionality to send this data via Telegram for educational and research purposes only. **Unauthorized use of this script may violate privacy laws. Ensure you have appropriate permissions before running this script.**
