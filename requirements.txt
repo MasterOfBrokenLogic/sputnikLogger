@@ -1,0 +1,16 @@
+os
+requests
+json
+base64
+sqlite3
+shutil
+zipfile
+getpass
+pycountry
+pyautogui
+tempfile
+pycryptodomex
+pycountry
+pyautogui
+requests
+pywin32
